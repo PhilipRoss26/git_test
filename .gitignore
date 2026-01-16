@@ -1,0 +1,5 @@
+notes.txt
+ignoredfiles/
+.DS_Store
+Thumbs.db
+.env
